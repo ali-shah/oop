@@ -8,17 +8,17 @@ public class Toyota extends Car {
 
     @Override
     public void startEngine() {
-        System.out.println("Tata Safari started");
+        System.out.println("Toytoa Fortuner started");
     }
 
     @Override
     public void accelerate() {
-        System.out.println("Tata Safari Accelerated");
+        System.out.println("Toyota Fortuner Accelerated");
     }
 
     @Override
     public void brake() {
-        System.out.println("Tata Safari stopped, Brakes applied");
+        System.out.println("Toyota Fortuner stopped, Brakes applied");
     }
 
 }
